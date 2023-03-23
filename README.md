@@ -57,7 +57,7 @@ and
 - OS version: Microsoft Windows 10 Pro Version 10.0 (Build 19045)  
 
  ---
- Please contact [us][<isodam@nips.ac.jp>] if you have questions.
+ Please contact [us](<isodam@nips.ac.jp>) if you have questions.
 
 [def0]: https://mathworks.com/products/matlab.html   
 [def1]: https://mathworks.com/matlabcentral/fileexchange/7772-suplabel   
