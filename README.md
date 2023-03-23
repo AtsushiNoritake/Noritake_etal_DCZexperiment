@@ -64,4 +64,4 @@ and
 [def2]: https://mathworks.com/matlabcentral/fileexchange/45134-violin-plot
 [def3]: https://github.com/AtsushiNoritake/Noritake_etal_DCZexperiment/blob/main/README.md
 [def4]: https://mathworks.com/matlabcentral/fileexchange/
-[def5]: isodam@nips.ac.jp
+[def5]: <isodam@nips.ac.jp>
