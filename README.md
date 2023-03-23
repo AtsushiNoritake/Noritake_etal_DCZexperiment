@@ -68,5 +68,5 @@ These codes require a standard computer on which MATLAB is executable and do not
 [def0]: https://mathworks.com/products/matlab.html   
 [def1]: https://mathworks.com/matlabcentral/fileexchange/7772-suplabel   
 [def2]: https://mathworks.com/matlabcentral/fileexchange/45134-violin-plot
-[def3]: https://github.com/AtsushiNoritake/Noritake_etal_DCZexperiment/blob/main/README.md
+[def3]: https://github.com/AtsushiNoritake/Noritake_etal_DCZexperiment
 [def4]: https://mathworks.com/matlabcentral/fileexchange/
