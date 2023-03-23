@@ -57,11 +57,10 @@ and
 - OS version: Microsoft Windows 10 Pro Version 10.0 (Build 19045)  
 
  ---
- Please contact [us][def5] if you have questions.
+ Please contact [us][<isodam@nips.ac.jp>] if you have questions.
 
 [def0]: https://mathworks.com/products/matlab.html   
 [def1]: https://mathworks.com/matlabcentral/fileexchange/7772-suplabel   
 [def2]: https://mathworks.com/matlabcentral/fileexchange/45134-violin-plot
 [def3]: https://github.com/AtsushiNoritake/Noritake_etal_DCZexperiment/blob/main/README.md
 [def4]: https://mathworks.com/matlabcentral/fileexchange/
-[def5]: <isodam@nips.ac.jp>
