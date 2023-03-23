@@ -58,7 +58,8 @@ and
 
 
 ## - System Requirements -
-These codes require a standard computer on which MATLAB is executable and do not require non-standard hardware. Standard OSs such as *Windows*, *macOS*, and *Linux* are supported.  
+These codes require a standard computer on which MATLAB is executable and do not require non-standard hardware. Standard operation systems such as *Windows*, *macOS*, and *Linux* are supported.  
+
 
 
  ---
