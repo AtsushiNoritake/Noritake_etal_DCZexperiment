@@ -1,5 +1,6 @@
 # Noritake_etal_DCZexperiment
-This repository contains the visualization codes of figures in our paper, "**Chemogenetic dissection of a prefrontal-hypothalamic circuit for socially subjective reward valuation in macaques**".
+This repository contains the visualization codes of figures in our paper, "**Chemogenetic dissection of a prefrontal-hypothalamic circuit for socially subjective reward valuation in macaques**".  
+[![DOI](https://zenodo.org/badge/617736934.svg)](https://zenodo.org/badge/latestdoi/617736934)
 
 We used [MATLAB (version 9.90)][def0] with the following toolboxes and libraries:  
  	- Statistics and machine learning toolbox (version 12.0)  
